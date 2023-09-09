@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Diener</h1>
 <h3 align="center">I am a full stack web developer in training.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kd13n3r" alt="kd13n3r" /></a> </p>
-
 - 🌱 I’m currently learning **React, Node.js, Python**
 
 - 📫 How to reach me **kdiener1998@gmail.com**
